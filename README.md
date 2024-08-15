@@ -1,2 +1,2 @@
 ### 架构图
-![Uploading image.png…]()
+![](pictures/架构图.png)
